@@ -1,5 +1,6 @@
 /*
 Data Cleaning using SQL Queries
+In this project, I have cleaned data from NashvilleHousing Dataset to make it more legible for data analysis
 */
 
 Select*
